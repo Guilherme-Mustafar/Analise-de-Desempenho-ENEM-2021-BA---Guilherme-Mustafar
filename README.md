@@ -8,7 +8,7 @@ Este projeto apresenta uma análise de dados baseada nos microdados do ENEM 2021
 
 O estudo foi desenvolvido em Python, no formato de Jupyter Notebook (.ipynb), com todas as etapas documentadas de forma sequencial e transparente.
 
-Objetivos do projeto
+## Objetivos do projeto
 
 Analisar o desempenho geral dos participantes do ENEM 2021 na Bahia
 
