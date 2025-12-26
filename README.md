@@ -1,8 +1,7 @@
 # Analise de Desempenho ENEM 2021 BA - Guilherme-Mustafar
 Projeto de análise de dados com base nos microdados do ENEM 2021 da Bahia. O estudo explora o desempenho dos participantes, comparações entre tipos de escola e variações entre municípios, utilizando Python e Jupyter Notebook, com foco em métricas descritivas e análise comparativa.
 
-Análise do Desempenho no ENEM 2021 — Bahia
-Visão geral
+## Análise do Desempenho no ENEM 2021 — Bahia - Visão geral
 
 Este projeto apresenta uma análise de dados baseada nos microdados do ENEM 2021, com foco nos participantes do estado da Bahia. O objetivo é compreender padrões de desempenho educacional, identificar diferenças entre tipos de escola e observar variações entre municípios, utilizando métricas estatísticas e análise exploratória de dados.
 
@@ -52,11 +51,11 @@ Discussão dos resultados, limitações do estudo e possíveis caminhos para an�
 
 O projeto evita análises baseadas exclusivamente em médias gerais. Foram priorizadas:
 
-Distribuição das notas
+* Distribuição das notas
 
-Percentual de participantes por faixa de desempenho
+* Percentual de participantes por faixa de desempenho
 
-Medidas de dispersão, como desvio padrão
+* Medidas de dispersão, como desvio padrão
 
 Essa abordagem permite uma leitura mais fiel das desigualdades educacionais e evita conclusões simplificadas.
 
@@ -75,8 +74,6 @@ Essa abordagem permite uma leitura mais fiel das desigualdades educacionais e ev
 ### Arquivos do repositório
 
 Analise_Enem_2021_BA.ipynb — Notebook principal com toda a análise
-
-data/ — Dados utilizados no projeto (quando aplicável)
 
 ### Observação sobre navegação
 
