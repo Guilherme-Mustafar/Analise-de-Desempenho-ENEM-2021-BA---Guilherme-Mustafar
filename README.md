@@ -20,7 +20,7 @@ Utilizar métricas além da média, como distribuição, percentuais e dispersã
 
 Demonstrar um fluxo completo de análise de dados, do tratamento à conclusão
 
-Estrutura da análise
+### Estrutura da análise
 
 O projeto está organizado nas seguintes etapas:
 
@@ -48,7 +48,7 @@ Consolidação dos principais achados, destacando desigualdades internas e padr�
 Conclusão e considerações finais
 Discussão dos resultados, limitações do estudo e possíveis caminhos para análises futuras.
 
-Abordagem analítica
+### Abordagem analítica
 
 O projeto evita análises baseadas exclusivamente em médias gerais. Foram priorizadas:
 
@@ -60,7 +60,7 @@ Medidas de dispersão, como desvio padrão
 
 Essa abordagem permite uma leitura mais fiel das desigualdades educacionais e evita conclusões simplificadas.
 
-Tecnologias utilizadas
+### Tecnologias utilizadas
 
 Python
 
@@ -72,17 +72,17 @@ Matplotlib
 
 Jupyter Notebook
 
-Arquivos do repositório
+### Arquivos do repositório
 
 Analise_Enem_2021_BA.ipynb — Notebook principal com toda a análise
 
 data/ — Dados utilizados no projeto (quando aplicável)
 
-Observação sobre navegação
+### Observação sobre navegação
 
 Por se tratar de um notebook longo, a navegação por links internos pode variar conforme o ambiente (VS Code, Jupyter, GitHub). Recomenda-se utilizar o painel de estrutura do notebook ou a extensão Table of Contents para facilitar a leitura.
 
-Possíveis extensões
+### Possíveis extensões
 
 Inclusão de variáveis socioeconômicas
 
@@ -90,6 +90,6 @@ Comparação com outras edições do ENEM
 
 Expansão da análise para outros estados
 
-Autor
+### Autor
 
 Projeto desenvolvido por Guilherme Mustafar, com foco em demonstrar habilidades em análise de dados, organização de projetos e interpretação de informações educacionais.
